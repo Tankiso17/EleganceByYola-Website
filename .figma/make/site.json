@@ -1,0 +1,11 @@
+{
+  "title": "EleganceByYola | Makeup and Dreadlock Services",
+  "description": "Student-owned makeup and dreadlock services, personalised for your style and occasion. House calls available in Gauteng and the Eastern Cape.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
